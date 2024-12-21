@@ -1,0 +1,10 @@
+1729408430020	Rename package 'com.jlcindia.bookstore.servlets'
+1729409050165	Rename type 'LoginServlet'
+1729409085111	Rename type 'RegisterServlet'
+1729409140313	Rename type 'ChangePWServlet'
+1729409195417	Rename type 'ForgotPWServlet'
+1729409249241	Rename type 'UpdateProfileServlet'
+1729409317614	Rename type 'LogoutServlet'
+1729409459150	Copy compilation unit
+1729410296656	Delete element
+1729411171823	Rename type 'JLCControllerServlet'

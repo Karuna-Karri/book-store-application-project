@@ -1,0 +1,13 @@
+package com.jlcindia.dao;
+
+public class DAOFactory {
+  static CustomerDAO customerDAO;
+  
+  static {
+	  customerDAO = new CustomerDAOImpl();
+  }
+	
+	public static CustomerDAO getCustomerDAO() {
+		return customerDAO;
+	}
+}

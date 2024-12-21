@@ -1,0 +1,5 @@
+package com.jlcindia.bookstore.controllers;
+
+public class JLCBaseController {
+
+}

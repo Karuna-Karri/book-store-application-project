@@ -1,0 +1,5 @@
+package com.jlcindia.bookstore.servlets;
+
+public class ChangePWServlet {
+
+}

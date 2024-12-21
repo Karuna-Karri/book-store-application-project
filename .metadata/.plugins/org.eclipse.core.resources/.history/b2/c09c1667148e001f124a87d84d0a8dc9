@@ -1,0 +1,5 @@
+package com.jlcindia.bookstore.dao;
+
+public interface UserDAO {
+
+}

@@ -1,0 +1,15 @@
+127.0.0.1 - - [25/Oct/2024:13:23:47 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [25/Oct/2024:13:23:50 +0530] "GET /JLCBSApp/ HTTP/1.1" 200 650
+0:0:0:0:0:0:0:1 - - [25/Oct/2024:13:23:50 +0530] "GET /favicon.ico HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [25/Oct/2024:13:24:12 +0530] "POST /JLCBSApp/mylogin.jlc HTTP/1.1" 200 678
+0:0:0:0:0:0:0:1 - - [25/Oct/2024:13:24:24 +0530] "POST /JLCBSApp/mylogin.jlc HTTP/1.1" 200 678
+0:0:0:0:0:0:0:1 - - [25/Oct/2024:13:24:27 +0530] "POST /JLCBSApp/mylogin.jlc HTTP/1.1" 200 678
+0:0:0:0:0:0:0:1 - - [25/Oct/2024:13:24:30 +0530] "GET /JLCBSApp/forgotpw.jsp HTTP/1.1" 200 398
+0:0:0:0:0:0:0:1 - - [25/Oct/2024:13:24:43 +0530] "POST /JLCBSApp/mypassword.jlc HTTP/1.1" 500 1450
+0:0:0:0:0:0:0:1 - - [25/Oct/2024:13:24:56 +0530] "POST /JLCBSApp/mypassword.jlc HTTP/1.1" 500 1450
+0:0:0:0:0:0:0:1 - - [25/Oct/2024:13:25:16 +0530] "GET /JLCBSApp/register.jsp HTTP/1.1" 200 1016
+0:0:0:0:0:0:0:1 - - [25/Oct/2024:13:26:18 +0530] "POST /JLCBSApp/myreg.jlc HTTP/1.1" 200 676
+0:0:0:0:0:0:0:1 - - [25/Oct/2024:13:26:30 +0530] "POST /JLCBSApp/mylogin.jlc HTTP/1.1" 200 400
+0:0:0:0:0:0:0:1 - - [25/Oct/2024:13:26:56 +0530] "GET /JLCBSApp/editProfile.jlc HTTP/1.1" 200 1167
+0:0:0:0:0:0:0:1 - - [25/Oct/2024:13:27:02 +0530] "GET /JLCBSApp/changepw.jsp HTTP/1.1" 200 581
+0:0:0:0:0:0:0:1 - - [25/Oct/2024:13:27:08 +0530] "GET /JLCBSApp/mylogout.jlc HTTP/1.1" 200 682
